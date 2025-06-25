@@ -1,0 +1,5 @@
+"Act as a senior SaaS architect. Design a cloud-native system using microservices that integrates:
+1. Google Ads API
+2. Facebook Marketing API
+3. Instagram Graph API
+4. User dashboard with cross-platform analytics
